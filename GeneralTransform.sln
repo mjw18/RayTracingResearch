@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeneralTransform", "Project2\Project2.vcxproj", "{54C36B9E-5078-4751-9ED7-F9A7FD8D1E00}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GenTransform", "GenTransform\GenTransform.vcxproj", "{EE04F750-646B-4C92-A606-5049D00D35F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54C36B9E-5078-4751-9ED7-F9A7FD8D1E00}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54C36B9E-5078-4751-9ED7-F9A7FD8D1E00}.Debug|Win32.Build.0 = Debug|Win32
+		{54C36B9E-5078-4751-9ED7-F9A7FD8D1E00}.Release|Win32.ActiveCfg = Release|Win32
+		{54C36B9E-5078-4751-9ED7-F9A7FD8D1E00}.Release|Win32.Build.0 = Release|Win32
+		{EE04F750-646B-4C92-A606-5049D00D35F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE04F750-646B-4C92-A606-5049D00D35F4}.Debug|Win32.Build.0 = Debug|Win32
+		{EE04F750-646B-4C92-A606-5049D00D35F4}.Release|Win32.ActiveCfg = Release|Win32
+		{EE04F750-646B-4C92-A606-5049D00D35F4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
